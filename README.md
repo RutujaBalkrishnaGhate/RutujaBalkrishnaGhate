@@ -7,7 +7,6 @@
  
 - 📫 How to reach me **ghate.r@northeastern.edu**
 
-- ⚡ Fun fact **I love watching F.R.I.E.N.D.S**
 <br>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
