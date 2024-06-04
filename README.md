@@ -1,11 +1,11 @@
 
-![MasterHead](https://user-images.githubusercontent.com/74038190/221352995-5ac18bdf-1a19-4f99-bbb6-77559b220470.gif)
+![MasterHead](https://media.licdn.com/dms/image/D4E16AQGgzYTVv41zHw/profile-displaybackgroundimage-shrink_350_1400/0/1708037955725?e=1723075200&v=beta&t=RgmhpoD5_Nal136Reya-3rViqic69OXBVQGy993wVJU)
 <br>
 <h1 align="center">Hi 👋, I'm Rutuja</h1>
 <h3 align="center">A passionate software developer from India</h3>
 <img src="https://media.tenor.com/S59bPkT0pqcAAAAC/programming.gif" align="right" alt="coding" width="400">
  
-- 📫 How to reach me **ghate.r@northeastern.edu**
+- 📫 How to reach me **rutujabalkrishnaghate@gmail.com**
 
 <br>
 <h3 align="left">Connect with me:</h3>
