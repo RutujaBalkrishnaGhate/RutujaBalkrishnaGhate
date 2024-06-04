@@ -1,5 +1,5 @@
 
-![MasterHead](https://media.licdn.com/dms/image/D4E16AQGgzYTVv41zHw/profile-displaybackgroundimage-shrink_350_1400/0/1708037955725?e=1723075200&v=beta&t=RgmhpoD5_Nal136Reya-3rViqic69OXBVQGy993wVJU)
+![MasterHead](https://user-images.githubusercontent.com/90236635/232446433-d5540fa2-fe28-4bb8-b929-cdb51fe61336.gif)
 <br>
 <h1 align="center">Hi 👋, I'm Rutuja</h1>
 <h3 align="center">A passionate software developer from India</h3>
